@@ -23,4 +23,7 @@ Project Report
 For better results or to get a smooth run on all the visualizations, Please use a server. 
 Recommended: Webstorm(As all the coding and testing is done on this)
 
+# Accessing the Project
+
+http://adithya1894.s3-website.us-east-2.amazonaws.com/
 
